@@ -1,0 +1,11 @@
+body {
+    background: url("https://wallpapercave.com/wp/wp1822725.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+     background-size: cover; 
+} 
+#game {
+    margin: auto;
+    width: 50%;
+    padding: 10px;  
+}
